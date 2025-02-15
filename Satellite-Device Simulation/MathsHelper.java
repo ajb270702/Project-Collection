@@ -1,5 +1,3 @@
-package unsw.blackout;
-
 import java.lang.Math;
 
 public class MathsHelper {
