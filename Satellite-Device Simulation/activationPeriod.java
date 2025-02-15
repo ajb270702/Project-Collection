@@ -1,5 +1,3 @@
-package unsw.blackout;
-
 import java.time.LocalTime;
 
 public class activationPeriod {
