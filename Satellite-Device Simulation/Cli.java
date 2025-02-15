@@ -1,5 +1,3 @@
-package unsw.blackout;
-
 import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.time.LocalTime;
